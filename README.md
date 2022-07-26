@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gdeitzler, or Grace!
-- 👀 I’m a 4th year PhD candidate and National Science Foundation Fellow at Oregon State University. I study the interactions between the gut
+- 👀 I’m a 5th year PhD candidate and National Science Foundation Fellow at Oregon State University. I study the interactions between the gut
 microbiome and behavior.
 - 🌱 I’m currently learning 16S and ITS sequence analysis pipelines in R, utilizing DADA2 and Phyloseq.
 - 📫 You can learn more on my website, gracedeitzler.com.
