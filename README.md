@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Grace!
 - 👀 I'm a postdoctoral fellow at Harvard University studying the microbiome, probiotics, and intestinal disease.
-- 👩‍💻 I've been on my R learning journey for about 8 years, and primarily use it for microbiome analysis, other -omics, and multivariate statistical analysis. I'm also learning python!
-- ✨ I'm a huge ggplot2 & data viz in R enthusiast! I'm also in the process of creating my own ggplot2-compatible color palette packages.
+- 👩‍💻 8 years of experience in using R for microbiome analysis, multi-omics, and multivariate statistical analysis.
+- 💻 Coursework in Python for bioinformatics, data science.
+- ✨ I'm a huge ggplot2 & data viz in R enthusiast - check out my ggplot2 tutorial!
 - 🌱 You can find project code from my PhD in the MaudeDavidLab organization: https://github.com/MaudeDavidLab
 
 <!---
