@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grace!
-- 👀 I'm a project manager at Penn State University, former postdoctoral fellow at Harvard University studying the microbiome, probiotics, and intestinal disease.
+- 👀 I'm a project manager at MIT in the Computer Science & AI Laboratory
 - 👩‍💻 10 years of experience in using R for microbiome analysis, multi-omics, and multivariate statistical analysis.
 - 💻 Learning Python for data science and bioinformatics.
 - ✨ I'm a huge ggplot2 & data viz in R enthusiast - check out my ggplot2 tutorial!
